@@ -60945,7 +60945,7 @@ s.eH(0)
 this.aV(0)},
 J(a,b){var s=null
 return A.fL(s,this.QQ(),B.x,s,s,s,s,s,s,B.H8,s,s,s)},
-QQ(){return new A.xu('<a href="https://www.google.co.jp/maps?hl=ja" target="_blank"><h2 style="text-align:center">GoogleMap\u3078</h2></a>',B.BM,1000,1000,new A.a4j(this),B.a1u)}}
+QQ(){return new A.xu('<a href="https://www.google.co.jp/maps?hl=ja" target="_blank"><h2 style="text-align:center">GoogleMap\u3078</h2></a><br><br><br><a><h2 style="text-align:center">\u4f5c\u6210\u4e2d\u3001\u30a2\u30d7\u30ea\u7248\u306f\u5b8c\u6210\u3057\u3066\u3044\u307e\u3059\u3002\u8a2d\u5b9a\u30fb\u305d\u306e\u4ed6\u30bf\u30d6\u3078</h2></a>',B.BM,1000,1000,new A.a4j(this),B.a1u)}}
 A.a4j.prototype={
 $1(a){return this.a.d=a},
 $S:411}

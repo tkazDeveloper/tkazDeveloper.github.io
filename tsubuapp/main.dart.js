@@ -72658,7 +72658,7 @@ s.dR(0)
 this.aJ(0)},
 H(a,b){var s=null
 return A.cq(s,this.Yf(),B.t,s,s,s,s,s,s,B.fb,s,s,s)},
-Yf(){return new A.Af('<a href="https://www.google.com/maps/d/u/1/edit?mid=1CprmpMPvx_IcgoYXDXXeQ2wGEHRYZSU&usp=sharing" target="_blank"><h2 style="text-align:center">GoogleMap\u3078</h2></a><br><br><br><a><h2 style="text-align:center">\u92ed\u610f\u4f5c\u6210\u4e2d\u3001GoogleMap\u306e\u30ea\u30b9\u30c8\u3078Jump\u3002\u8a2d\u5b9a\u30fb\u305d\u306e\u4ed6\u30bf\u30d6\u3078</h2></a>',B.DQ,1000,1000,new A.abP(this),B.a8O)}}
+Yf(){return new A.Af('<a href="https://www.google.com/maps/d/u/1/edit?mid=1CprmpMPvx_IcgoYXDXXeQ2wGEHRYZSU&usp=sharing" target="_blank"><h2 style="text-align:center">GoogleMap\u3078</h2></a><br><br><br><a><h2 style="text-align:center">PC\u7248\u306fGoogleMap\u306e\u30ea\u30b9\u30c8\u3078Jump\u3002\u8a2d\u5b9a\u30fb\u305d\u306e\u4ed6\u30bf\u30d6\u3078</h2></a>',B.DQ,1000,1000,new A.abP(this),B.a8O)}}
 A.abP.prototype={
 $1(a){return this.a.d=a},
 $S:469}
